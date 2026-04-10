@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bonheur-bakehouse-hsr-website/static/css/main.4390cf0b.css",
+    "main.js": "/bonheur-bakehouse-hsr-website/static/js/main.c5ad1bcf.js",
+    "index.html": "/bonheur-bakehouse-hsr-website/index.html",
+    "main.4390cf0b.css.map": "/bonheur-bakehouse-hsr-website/static/css/main.4390cf0b.css.map",
+    "main.c5ad1bcf.js.map": "/bonheur-bakehouse-hsr-website/static/js/main.c5ad1bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4390cf0b.css",
+    "static/js/main.c5ad1bcf.js"
+  ]
+}
